@@ -16,11 +16,11 @@
         }
     ],
     "require": {
-        "composer/installers": "~1.0"
+        "mnsami/composer-custom-directory-installer": "1.1.*",
     },
     "extra":{
         "installer-paths":{
-            "addon/visiosoft/{$name}/": ["onurure/deneme"]
+            "./monolog/": ["onurure/deneme"]
         }
     }
 }
