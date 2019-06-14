@@ -1,7 +1,7 @@
 {
     "name": "onurure/deneme",
     "description": "Iyzico for omnipay 3 ",
-    "type": "composer-plugin",
+    "type": "library",
     "keywords": [
         "omnipay",
         "iyzico"
