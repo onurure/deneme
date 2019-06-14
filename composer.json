@@ -15,14 +15,15 @@
             "homepage": "https://github.com/onurure"
         }
     ],
-      "require":{
-    "php": ">=5.3",
-    "mnsami/composer-custom-directory-installer": "1.1.*",
-    "monolog/monolog": "*"
+  "require":{
+        "oomphinc/composer-installers-extender": "^1.1"
   },
     "extra":{
-    "installer-paths":{
-      "./monolog/": ["monolog/monolog"]
-      }
+    
+    "installer-types": ["visiosoft"],
+    "installer-paths": {
+      "special/package/": ["my/package"],
+      "path/to/libraries/{$name}/": ["type:visiosoft"]
+    }
     }
 }
