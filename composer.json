@@ -14,5 +14,8 @@
             "email": "ure.onur@gmail.com",
             "homepage": "https://github.com/onurure"
         }
-    ]
+    ],
+    "installer-paths": {
+        "addon/visiosoft/{$name}/": ["vendor/onurure"]
+    }
 }
