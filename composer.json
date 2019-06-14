@@ -1,12 +1,12 @@
 {
-    "name": "onurure/omnipay-iyzico",
+    "name": "onurure/deneme",
     "description": "Iyzico for omnipay 3 ",
     "type": "library",
     "keywords": [
         "omnipay",
         "iyzico"
     ],
-    "homepage": "https://github.com/onurure/omnipay-iyzico",
+    "homepage": "https://github.com/onurure/deneme",
     "license": "MIT",
     "authors": [
         {
