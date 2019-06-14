@@ -1,0 +1,18 @@
+{
+    "name": "onurure/omnipay-iyzico",
+    "description": "Iyzico for omnipay 3 ",
+    "type": "library",
+    "keywords": [
+        "omnipay",
+        "iyzico"
+    ],
+    "homepage": "https://github.com/onurure/omnipay-iyzico",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "onur üre",
+            "email": "ure.onur@gmail.com",
+            "homepage": "https://github.com/onurure"
+        }
+    ]
+}
