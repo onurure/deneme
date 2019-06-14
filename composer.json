@@ -1,7 +1,7 @@
 {
     "name": "onurure/deneme",
     "description": "Iyzico for omnipay 3 ",
-    "type": "laravel-library",
+    "type": "composer-plugin",
     "keywords": [
         "omnipay",
         "iyzico"
