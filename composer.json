@@ -15,6 +15,9 @@
             "homepage": "https://github.com/onurure"
         }
     ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
     "installer-paths": {
         "addon/visiosoft/{$name}/": ["vendor/onurure"]
     }
