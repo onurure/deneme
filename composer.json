@@ -1,7 +1,7 @@
 {
     "name": "onurure/deneme",
     "description": "Iyzico for omnipay 3 ",
-    "type": "library",
+    "type": "laravel-library",
     "keywords": [
         "omnipay",
         "iyzico"
@@ -19,6 +19,6 @@
         "composer/installers": "~1.0"
     },
     "installer-paths": {
-        "addon/visiosoft/{$name}/": ["vendor/onurure"]
+        "addon/visiosoft/{$name}/": ["onurure/deneme"]
     }
 }
