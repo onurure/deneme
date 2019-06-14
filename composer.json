@@ -15,12 +15,14 @@
             "homepage": "https://github.com/onurure"
         }
     ],
-    "require": {
-        "mnsami/composer-custom-directory-installer": "1.1.*"
-    },
+      "require":{
+    "php": ">=5.3",
+    "mnsami/composer-custom-directory-installer": "1.1.*",
+    "monolog/monolog": "*"
+  },
     "extra":{
-        "installer-paths":{
-            "./monolog/": ["onurure/deneme"]
-        }
+    "installer-paths":{
+      "./monolog/": ["monolog/monolog"]
+      }
     }
 }
